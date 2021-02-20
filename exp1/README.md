@@ -53,6 +53,7 @@ L\left( w,b \right) =\sum_{i=1}^m{\left[ -\left( y_i\ln \left( \hat{y}_i \right)
 $$
  
 其中$L$是关于参数$w$和$b$的函数，问题转化为求
+
 $$
 \left( w^*,b^* \right) =\mathrm{arg}\min _{\left( w,b \right)}L\left( w,b \right)
 $$
@@ -65,6 +66,7 @@ $$
 
 
 最终求得有
+
 $$
 \frac{\partial L}{\partial w}=\sum_{i=1}^m{\left( \hat{y}_i-y_i \right) x_i}\\\frac{\partial L}{\partial b}=\sum_{i=1}^m{\left( \hat{y}_i-y_i \right)}
 $$
