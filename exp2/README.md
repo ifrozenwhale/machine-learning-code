@@ -58,8 +58,8 @@
 
 ## 部分结果展示
 
-- ![avatar](./img/ad_result.png)
-- ![avatar](./img/watermelonDevisionTreeTrain.png)
-- ![avatar](./img/Boston_house_price_predict.png)
-- ![avatar](./img/irisDevisionTreeSimple.png)
+![avatar](./img/ad_result.png)
+![avatar](./img/watermelonDevisionTreeTrain.png)
+![avatar](./img/Boston_house_price_predict.png)
+![avatar](./img/irisDevisionTreeSimple.png)
 
