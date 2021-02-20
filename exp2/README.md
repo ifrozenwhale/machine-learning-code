@@ -1,3 +1,5 @@
+## 说明
+
 1. 目录结构如下所示
 
 ```python
@@ -53,4 +55,11 @@
    ```
 
 3. 运行时需要在exp2文件根目录下（代码写的是相对地址）
+
+## 部分结果展示
+
+- ![avatar](./img/ad_result.png)
+- ![avatar](./img/watermelonDevisionTreeTrain.png)
+- ![avatar](./img/Boston_house_price_predict.png)
+- ![avatar](./img/irisDevisionTreeSimple.png)
 
